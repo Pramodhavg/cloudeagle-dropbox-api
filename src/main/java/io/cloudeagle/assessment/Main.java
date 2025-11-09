@@ -18,8 +18,8 @@ public class Main {
 
     // 1. UPDATE THESE: Get these from your Dropbox App Console
     // (https://www.dropbox.com/developers/apps)
-    private static final String APP_KEY = "z0ag75ejuq7cdmv"; // Your Client ID
-    private static final String APP_SECRET = "j5mgrmm9quvk6ye"; // Your Client Secret
+    private static final String APP_KEY = "YOUR_APP_KEY"; // Your Client ID
+    private static final String APP_SECRET = "YOUR_APP_SECRET"; // Your Client Secret
     
     // 2. UPDATE THIS: This MUST match one of the Redirect URIs in your app settings
     private static final String REDIRECT_URI = "http://localhost:8080/auth-callback"; 
