@@ -98,19 +98,3 @@ Find the authorization code parameter in the URL.
 Paste only the code value (e.g., ABC123xyz...) back into your terminal and press Enter.
 
 The program will authenticate and then print the list of all team members and their roles to the console.
-
-Example Output:
-
---- Authentication Successful! ---
-Your Access Token: sl.B...[a very long string of characters]...
-----------------------------------
-
-Fetching team members...
---------------------
-User: Janani (Admin)
-Email: janani2@gmail.com
-Role: TeamAdmin
---------------------
-User: Test User
-Email: test.user@cloudeagle.com
-Role: MemberOnly
